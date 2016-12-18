@@ -1,0 +1,2110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efcef8e9-3432-4bd4-8593-eba1ba1a7766" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/auth$Minecraft_Server.coverage" NAME="Minecraft Server Coverage Results" MODIFIED="1482023185297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <breakpoint_rules converted="true" />
+    <ui_properties converted="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="auth" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MessageToMessageCodec.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/MessageToMessageCodec.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#5703#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultChannelHandlerContext.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11520">
+              <caret line="716" column="0" lean-forward="false" selection-start-line="716" selection-start-column="0" selection-end-line="716" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28000#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3414#3415#0" expanded="false" />
+                <element signature="e#3465#3466#0" expanded="false" />
+                <element signature="e#3795#3796#0" expanded="false" />
+                <element signature="e#3825#3826#0" expanded="false" />
+                <element signature="e#3880#3881#0" expanded="false" />
+                <element signature="e#3911#3912#0" expanded="false" />
+                <element signature="e#3964#3965#0" expanded="false" />
+                <element signature="e#4020#4021#0" expanded="false" />
+                <element signature="e#4262#4263#0" expanded="false" />
+                <element signature="e#4292#4293#0" expanded="false" />
+                <element signature="e#4334#4335#0" expanded="false" />
+                <element signature="e#4361#4362#0" expanded="false" />
+                <element signature="e#4764#4765#0" expanded="false" />
+                <element signature="e#4834#4835#0" expanded="false" />
+                <element signature="e#5512#5513#0" expanded="false" />
+                <element signature="e#5584#5585#0" expanded="false" />
+                <element signature="e#6254#6255#0" expanded="false" />
+                <element signature="e#6320#6321#0" expanded="false" />
+                <element signature="e#6982#6983#0" expanded="false" />
+                <element signature="e#7050#7051#0" expanded="false" />
+                <element signature="e#7855#7856#0" expanded="false" />
+                <element signature="e#7936#7937#0" expanded="false" />
+                <element signature="e#9250#9251#0" expanded="false" />
+                <element signature="e#9326#9327#0" expanded="false" />
+                <element signature="e#10117#10118#0" expanded="false" />
+                <element signature="e#10184#10185#0" expanded="false" />
+                <element signature="e#11000#11001#0" expanded="false" />
+                <element signature="e#11080#11081#0" expanded="false" />
+                <element signature="e#11978#11979#0" expanded="false" />
+                <element signature="e#12064#12065#0" expanded="false" />
+                <element signature="e#12479#12480#0" expanded="false" />
+                <element signature="e#12534#12535#0" expanded="false" />
+                <element signature="e#12613#12614#0" expanded="false" />
+                <element signature="e#12672#12673#0" expanded="false" />
+                <element signature="e#12907#12908#0" expanded="false" />
+                <element signature="e#12954#12955#0" expanded="false" />
+                <element signature="e#13004#13005#0" expanded="false" />
+                <element signature="e#13046#13047#0" expanded="false" />
+                <element signature="e#13101#13102#0" expanded="false" />
+                <element signature="e#13148#13149#0" expanded="false" />
+                <element signature="e#13745#13746#0" expanded="false" />
+                <element signature="e#13823#13824#0" expanded="false" />
+                <element signature="e#14995#14996#0" expanded="false" />
+                <element signature="e#15091#15092#0" expanded="false" />
+                <element signature="e#17246#17247#0" expanded="false" />
+                <element signature="e#17311#17312#0" expanded="false" />
+                <element signature="e#18066#18067#0" expanded="false" />
+                <element signature="e#18136#18137#0" expanded="false" />
+                <element signature="e#18925#18926#0" expanded="false" />
+                <element signature="e#18990#18991#0" expanded="false" />
+                <element signature="e#19350#19351#0" expanded="false" />
+                <element signature="e#19397#19398#0" expanded="false" />
+                <element signature="e#20433#20434#0" expanded="false" />
+                <element signature="e#20499#20500#0" expanded="false" />
+                <element signature="e#23687#23688#0" expanded="false" />
+                <element signature="e#23758#23759#0" expanded="false" />
+                <element signature="e#25985#25986#0" expanded="false" />
+                <element signature="e#26029#26030#0" expanded="false" />
+                <element signature="e#26054#26055#0" expanded="false" />
+                <element signature="e#26084#26085#0" expanded="false" />
+                <element signature="e#26132#26133#0" expanded="false" />
+                <element signature="e#26162#26163#0" expanded="false" />
+                <element signature="e#26563#26564#0" expanded="false" />
+                <element signature="e#26623#26624#0" expanded="false" />
+                <element signature="e#27128#27129#0" expanded="false" />
+                <element signature="e#27172#27173#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultChannelPipeline.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15282">
+              <caret line="939" column="0" lean-forward="false" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#32621#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2308#2346#0" expanded="false" />
+                <element signature="e#2449#2484#0" expanded="false" />
+                <element signature="e#3107#3108#0" expanded="false" />
+                <element signature="e#3137#3138#0" expanded="false" />
+                <element signature="e#3227#3228#0" expanded="false" />
+                <element signature="e#3279#3280#0" expanded="false" />
+                <element signature="e#4115#4116#0" expanded="false" />
+                <element signature="e#4166#4167#0" expanded="false" />
+                <element signature="e#7042#7043#0" expanded="false" />
+                <element signature="e#7089#7090#0" expanded="false" />
+                <element signature="e#7819#7820#0" expanded="false" />
+                <element signature="e#7865#7866#0" expanded="false" />
+                <element signature="e#9667#9668#0" expanded="false" />
+                <element signature="e#9729#9730#0" expanded="false" />
+                <element signature="e#10369#10625#0" expanded="false" />
+                <element signature="e#10624#10625#0" expanded="false" />
+                <element signature="e#13022#13303#0" expanded="false" />
+                <element signature="e#13302#13303#0" expanded="false" />
+                <element signature="e#15665#15819#0" expanded="false" />
+                <element signature="e#15818#15819#0" expanded="false" />
+                <element signature="e#17098#17255#0" expanded="false" />
+                <element signature="e#17254#17255#0" expanded="false" />
+                <element signature="e#21700#21708#0" expanded="false" />
+                <element signature="e#22060#22084#0" expanded="false" />
+                <element signature="e#22407#22408#0" expanded="false" />
+                <element signature="e#22459#22460#0" expanded="false" />
+                <element signature="e#23976#23977#0" expanded="false" />
+                <element signature="e#24012#24013#0" expanded="false" />
+                <element signature="e#25222#25223#0" expanded="false" />
+                <element signature="e#25268#25269#0" expanded="false" />
+                <element signature="e#25347#25348#0" expanded="false" />
+                <element signature="e#25397#25398#0" expanded="false" />
+                <element signature="e#25623#25624#0" expanded="false" />
+                <element signature="e#25663#25664#0" expanded="false" />
+                <element signature="e#25713#25714#0" expanded="false" />
+                <element signature="e#25748#25749#0" expanded="false" />
+                <element signature="e#25803#25804#0" expanded="false" />
+                <element signature="e#25843#25844#0" expanded="false" />
+                <element signature="e#26541#26542#0" expanded="false" />
+                <element signature="e#26588#26589#0" expanded="false" />
+                <element signature="e#26660#26661#0" expanded="false" />
+                <element signature="e#26702#26703#0" expanded="false" />
+                <element signature="e#26785#26786#0" expanded="false" />
+                <element signature="e#26832#26833#0" expanded="false" />
+                <element signature="e#26991#26992#0" expanded="false" />
+                <element signature="e#27029#27030#0" expanded="false" />
+                <element signature="e#27113#27114#0" expanded="false" />
+                <element signature="e#27160#27161#0" expanded="false" />
+                <element signature="e#27252#27253#0" expanded="false" />
+                <element signature="e#27307#27308#0" expanded="false" />
+                <element signature="e#27375#27376#0" expanded="false" />
+                <element signature="e#27421#27422#0" expanded="false" />
+                <element signature="e#30684#30685#0" expanded="false" />
+                <element signature="e#30728#30729#0" expanded="false" />
+                <element signature="e#32091#32092#0" expanded="false" />
+                <element signature="e#32133#32134#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractChannel.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3204">
+              <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#25775#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3324#3325#0" expanded="false" />
+                <element signature="e#3353#3354#0" expanded="false" />
+                <element signature="e#3408#3409#0" expanded="false" />
+                <element signature="e#3439#3440#0" expanded="false" />
+                <element signature="e#3492#3493#0" expanded="false" />
+                <element signature="e#3538#3539#0" expanded="false" />
+                <element signature="e#4277#4278#0" expanded="false" />
+                <element signature="e#4312#4313#0" expanded="false" />
+                <element signature="e#4855#4856#0" expanded="false" />
+                <element signature="e#4891#4892#0" expanded="false" />
+                <element signature="e#4942#4943#0" expanded="false" />
+                <element signature="e#4975#4976#0" expanded="false" />
+                <element signature="e#5050#5051#0" expanded="false" />
+                <element signature="e#5100#5101#0" expanded="false" />
+                <element signature="e#5179#5180#0" expanded="false" />
+                <element signature="e#5233#5234#0" expanded="false" />
+                <element signature="e#5463#5464#0" expanded="false" />
+                <element signature="e#5507#5508#0" expanded="false" />
+                <element signature="e#5557#5558#0" expanded="false" />
+                <element signature="e#5596#5597#0" expanded="false" />
+                <element signature="e#5651#5652#0" expanded="false" />
+                <element signature="e#5695#5696#0" expanded="false" />
+                <element signature="e#6401#6402#0" expanded="false" />
+                <element signature="e#6452#6453#0" expanded="false" />
+                <element signature="e#6524#6525#0" expanded="false" />
+                <element signature="e#6570#6571#0" expanded="false" />
+                <element signature="e#6647#6648#0" expanded="false" />
+                <element signature="e#6698#6699#0" expanded="false" />
+                <element signature="e#6853#6854#0" expanded="false" />
+                <element signature="e#6895#6896#0" expanded="false" />
+                <element signature="e#6979#6980#0" expanded="false" />
+                <element signature="e#7030#7031#0" expanded="false" />
+                <element signature="e#7355#7356#0" expanded="false" />
+                <element signature="e#7409#7410#0" expanded="false" />
+                <element signature="e#7487#7488#0" expanded="false" />
+                <element signature="e#7552#7553#0" expanded="false" />
+                <element signature="e#7615#7616#0" expanded="false" />
+                <element signature="e#7653#7654#0" expanded="false" />
+                <element signature="e#7728#7729#0" expanded="false" />
+                <element signature="e#7793#7794#0" expanded="false" />
+                <element signature="e#7849#7850#0" expanded="false" />
+                <element signature="e#7883#7884#0" expanded="false" />
+                <element signature="e#7927#7928#0" expanded="false" />
+                <element signature="e#7956#7957#0" expanded="false" />
+                <element signature="e#8240#8241#0" expanded="false" />
+                <element signature="e#8277#8278#0" expanded="false" />
+                <element signature="e#8480#8481#0" expanded="false" />
+                <element signature="e#8512#8513#0" expanded="false" />
+                <element signature="e#10378#10379#0" expanded="false" />
+                <element signature="e#10412#10413#0" expanded="false" />
+                <element signature="e#11021#11022#0" expanded="false" />
+                <element signature="e#11066#11067#0" expanded="false" />
+                <element signature="e#11137#11138#0" expanded="false" />
+                <element signature="e#11183#11184#0" expanded="false" />
+                <element signature="e#11255#11256#0" expanded="false" />
+                <element signature="e#11302#11303#0" expanded="false" />
+                <element signature="e#12152#12342#0" expanded="false" />
+                <element signature="e#12341#12342#0" expanded="false" />
+                <element signature="e#15204#15384#0" expanded="false" />
+                <element signature="e#15383#15384#0" expanded="false" />
+                <element signature="e#15845#16027#0" expanded="false" />
+                <element signature="e#16026#16027#0" expanded="false" />
+                <element signature="e#16304#16470#0" expanded="false" />
+                <element signature="e#16469#16470#0" expanded="false" />
+                <element signature="e#17440#17642#0" expanded="false" />
+                <element signature="e#17641#17642#0" expanded="false" />
+                <element signature="e#18511#18717#0" expanded="false" />
+                <element signature="e#18716#18717#0" expanded="false" />
+                <element signature="e#19353#19536#0" expanded="false" />
+                <element signature="e#19535#19536#0" expanded="false" />
+                <element signature="e#21753#21754#0" expanded="false" />
+                <element signature="e#21801#21802#0" expanded="false" />
+                <element signature="e#25152#25153#0" expanded="false" />
+                <element signature="e#25185#25186#0" expanded="false" />
+                <element signature="e#25249#25250#0" expanded="false" />
+                <element signature="e#25306#25307#0" expanded="false" />
+                <element signature="e#25385#25386#0" expanded="false" />
+                <element signature="e#25442#25443#0" expanded="false" />
+                <element signature="e#25499#25500#0" expanded="false" />
+                <element signature="e#25556#25557#0" expanded="false" />
+                <element signature="e#25628#25629#0" expanded="false" />
+                <element signature="e#25685#25686#0" expanded="false" />
+                <element signature="e#25716#25717#0" expanded="false" />
+                <element signature="e#25765#25766#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleNetworkWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleNetworkWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1674">
+              <caret line="108" column="104" lean-forward="false" selection-start-line="108" selection-start-column="104" selection-end-line="108" selection-end-column="104" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#8098#8099#0" expanded="false" />
+                <element signature="e#8174#8175#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthMessage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AuthHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleChannelHandlerWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleChannelHandlerWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NEEToreeAuth.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/NEEToreeAuth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-477">
+              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1370#1406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FMLNetworkEvent.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/FMLNetworkEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#4632#4633#0" expanded="false" />
+                <element signature="e#4674#4675#0" expanded="false" />
+                <element signature="e#5174#5175#0" expanded="false" />
+                <element signature="e#5216#5217#0" expanded="false" />
+                <element signature="e#5541#5542#0" expanded="false" />
+                <element signature="e#5597#5598#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>server</find>
+      <find>field_146106_i</find>
+      <find>field_147337_i</find>
+      <find>instanc</find>
+      <find>properties</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/examplemod/ExampleMod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessageHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/examplemod/NEEToreeAuth.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ModuleEditorState">
+    <option name="LAST_EDITED_MODULE_NAME" />
+    <option name="LAST_EDITED_TAB_NAME" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="25" />
+    <option name="width" value="1368" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fml" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="network" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="examplemod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunManager" selected="Application.Minecraft Server">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/usr/bin/flashplayerdebugger" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="auth" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Minecraft Client" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="auth" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Minecraft Server" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="auth" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Minecraft Client" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Minecraft Server" />
+    </list>
+    <configuration default="true" name="&lt;template&gt;" selected="false" type="WebApp">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="UPDATE_RUN_STATUS" value="false" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcef8e9-3432-4bd4-8593-eba1ba1a7766" name="Default" comment="" />
+      <created>1482004590757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1482004590757</updated>
+      <workItem from="1482004591856" duration="13697000" />
+      <workItem from="1482024661541" duration="1288000" />
+      <workItem from="1482025954427" duration="1114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16099000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="25" width="1368" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.51937985" sideWeight="0.5058651" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32817337" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2510981" sideWeight="0.488746" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.42879257" sideWeight="0.4941349" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24963397" sideWeight="0.511254" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329429" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32662538" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar!/com/mojang/authlib/properties/PropertyMap.class</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessage.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="42" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/MessageToMessageCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5703#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11520">
+          <caret line="716" column="0" lean-forward="false" selection-start-line="716" selection-start-column="0" selection-end-line="716" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28000#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3414#3415#0" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
+            <element signature="e#3795#3796#0" expanded="false" />
+            <element signature="e#3825#3826#0" expanded="false" />
+            <element signature="e#3880#3881#0" expanded="false" />
+            <element signature="e#3911#3912#0" expanded="false" />
+            <element signature="e#3964#3965#0" expanded="false" />
+            <element signature="e#4020#4021#0" expanded="false" />
+            <element signature="e#4262#4263#0" expanded="false" />
+            <element signature="e#4292#4293#0" expanded="false" />
+            <element signature="e#4334#4335#0" expanded="false" />
+            <element signature="e#4361#4362#0" expanded="false" />
+            <element signature="e#4764#4765#0" expanded="false" />
+            <element signature="e#4834#4835#0" expanded="false" />
+            <element signature="e#5512#5513#0" expanded="false" />
+            <element signature="e#5584#5585#0" expanded="false" />
+            <element signature="e#6254#6255#0" expanded="false" />
+            <element signature="e#6320#6321#0" expanded="false" />
+            <element signature="e#6982#6983#0" expanded="false" />
+            <element signature="e#7050#7051#0" expanded="false" />
+            <element signature="e#7855#7856#0" expanded="false" />
+            <element signature="e#7936#7937#0" expanded="false" />
+            <element signature="e#9250#9251#0" expanded="false" />
+            <element signature="e#9326#9327#0" expanded="false" />
+            <element signature="e#10117#10118#0" expanded="false" />
+            <element signature="e#10184#10185#0" expanded="false" />
+            <element signature="e#11000#11001#0" expanded="false" />
+            <element signature="e#11080#11081#0" expanded="false" />
+            <element signature="e#11978#11979#0" expanded="false" />
+            <element signature="e#12064#12065#0" expanded="false" />
+            <element signature="e#12479#12480#0" expanded="false" />
+            <element signature="e#12534#12535#0" expanded="false" />
+            <element signature="e#12613#12614#0" expanded="false" />
+            <element signature="e#12672#12673#0" expanded="false" />
+            <element signature="e#12907#12908#0" expanded="false" />
+            <element signature="e#12954#12955#0" expanded="false" />
+            <element signature="e#13004#13005#0" expanded="false" />
+            <element signature="e#13046#13047#0" expanded="false" />
+            <element signature="e#13101#13102#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13745#13746#0" expanded="false" />
+            <element signature="e#13823#13824#0" expanded="false" />
+            <element signature="e#14995#14996#0" expanded="false" />
+            <element signature="e#15091#15092#0" expanded="false" />
+            <element signature="e#17246#17247#0" expanded="false" />
+            <element signature="e#17311#17312#0" expanded="false" />
+            <element signature="e#18066#18067#0" expanded="false" />
+            <element signature="e#18136#18137#0" expanded="false" />
+            <element signature="e#18925#18926#0" expanded="false" />
+            <element signature="e#18990#18991#0" expanded="false" />
+            <element signature="e#19350#19351#0" expanded="false" />
+            <element signature="e#19397#19398#0" expanded="false" />
+            <element signature="e#20433#20434#0" expanded="false" />
+            <element signature="e#20499#20500#0" expanded="false" />
+            <element signature="e#23687#23688#0" expanded="false" />
+            <element signature="e#23758#23759#0" expanded="false" />
+            <element signature="e#25985#25986#0" expanded="false" />
+            <element signature="e#26029#26030#0" expanded="false" />
+            <element signature="e#26054#26055#0" expanded="false" />
+            <element signature="e#26084#26085#0" expanded="false" />
+            <element signature="e#26132#26133#0" expanded="false" />
+            <element signature="e#26162#26163#0" expanded="false" />
+            <element signature="e#26563#26564#0" expanded="false" />
+            <element signature="e#26623#26624#0" expanded="false" />
+            <element signature="e#27128#27129#0" expanded="false" />
+            <element signature="e#27172#27173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15318">
+          <caret line="939" column="0" lean-forward="true" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32621#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2308#2346#0" expanded="false" />
+            <element signature="e#2449#2484#0" expanded="false" />
+            <element signature="e#3107#3108#0" expanded="false" />
+            <element signature="e#3137#3138#0" expanded="false" />
+            <element signature="e#3227#3228#0" expanded="false" />
+            <element signature="e#3279#3280#0" expanded="false" />
+            <element signature="e#4115#4116#0" expanded="false" />
+            <element signature="e#4166#4167#0" expanded="false" />
+            <element signature="e#7042#7043#0" expanded="false" />
+            <element signature="e#7089#7090#0" expanded="false" />
+            <element signature="e#7819#7820#0" expanded="false" />
+            <element signature="e#7865#7866#0" expanded="false" />
+            <element signature="e#9667#9668#0" expanded="false" />
+            <element signature="e#9729#9730#0" expanded="false" />
+            <element signature="e#10369#10625#0" expanded="false" />
+            <element signature="e#10624#10625#0" expanded="false" />
+            <element signature="e#13022#13303#0" expanded="false" />
+            <element signature="e#13302#13303#0" expanded="false" />
+            <element signature="e#15665#15819#0" expanded="false" />
+            <element signature="e#15818#15819#0" expanded="false" />
+            <element signature="e#17098#17255#0" expanded="false" />
+            <element signature="e#17254#17255#0" expanded="false" />
+            <element signature="e#21700#21708#0" expanded="false" />
+            <element signature="e#22060#22084#0" expanded="false" />
+            <element signature="e#22407#22408#0" expanded="false" />
+            <element signature="e#22459#22460#0" expanded="false" />
+            <element signature="e#23976#23977#0" expanded="false" />
+            <element signature="e#24012#24013#0" expanded="false" />
+            <element signature="e#25222#25223#0" expanded="false" />
+            <element signature="e#25268#25269#0" expanded="false" />
+            <element signature="e#25347#25348#0" expanded="false" />
+            <element signature="e#25397#25398#0" expanded="false" />
+            <element signature="e#25623#25624#0" expanded="false" />
+            <element signature="e#25663#25664#0" expanded="false" />
+            <element signature="e#25713#25714#0" expanded="false" />
+            <element signature="e#25748#25749#0" expanded="false" />
+            <element signature="e#25803#25804#0" expanded="false" />
+            <element signature="e#25843#25844#0" expanded="false" />
+            <element signature="e#26541#26542#0" expanded="false" />
+            <element signature="e#26588#26589#0" expanded="false" />
+            <element signature="e#26660#26661#0" expanded="false" />
+            <element signature="e#26702#26703#0" expanded="false" />
+            <element signature="e#26785#26786#0" expanded="false" />
+            <element signature="e#26832#26833#0" expanded="false" />
+            <element signature="e#26991#26992#0" expanded="false" />
+            <element signature="e#27029#27030#0" expanded="false" />
+            <element signature="e#27113#27114#0" expanded="false" />
+            <element signature="e#27160#27161#0" expanded="false" />
+            <element signature="e#27252#27253#0" expanded="false" />
+            <element signature="e#27307#27308#0" expanded="false" />
+            <element signature="e#27375#27376#0" expanded="false" />
+            <element signature="e#27421#27422#0" expanded="false" />
+            <element signature="e#30684#30685#0" expanded="false" />
+            <element signature="e#30728#30729#0" expanded="false" />
+            <element signature="e#32091#32092#0" expanded="false" />
+            <element signature="e#32133#32134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3204">
+          <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25775#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3324#3325#0" expanded="false" />
+            <element signature="e#3353#3354#0" expanded="false" />
+            <element signature="e#3408#3409#0" expanded="false" />
+            <element signature="e#3439#3440#0" expanded="false" />
+            <element signature="e#3492#3493#0" expanded="false" />
+            <element signature="e#3538#3539#0" expanded="false" />
+            <element signature="e#4277#4278#0" expanded="false" />
+            <element signature="e#4312#4313#0" expanded="false" />
+            <element signature="e#4855#4856#0" expanded="false" />
+            <element signature="e#4891#4892#0" expanded="false" />
+            <element signature="e#4942#4943#0" expanded="false" />
+            <element signature="e#4975#4976#0" expanded="false" />
+            <element signature="e#5050#5051#0" expanded="false" />
+            <element signature="e#5100#5101#0" expanded="false" />
+            <element signature="e#5179#5180#0" expanded="false" />
+            <element signature="e#5233#5234#0" expanded="false" />
+            <element signature="e#5463#5464#0" expanded="false" />
+            <element signature="e#5507#5508#0" expanded="false" />
+            <element signature="e#5557#5558#0" expanded="false" />
+            <element signature="e#5596#5597#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#6401#6402#0" expanded="false" />
+            <element signature="e#6452#6453#0" expanded="false" />
+            <element signature="e#6524#6525#0" expanded="false" />
+            <element signature="e#6570#6571#0" expanded="false" />
+            <element signature="e#6647#6648#0" expanded="false" />
+            <element signature="e#6698#6699#0" expanded="false" />
+            <element signature="e#6853#6854#0" expanded="false" />
+            <element signature="e#6895#6896#0" expanded="false" />
+            <element signature="e#6979#6980#0" expanded="false" />
+            <element signature="e#7030#7031#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#7409#7410#0" expanded="false" />
+            <element signature="e#7487#7488#0" expanded="false" />
+            <element signature="e#7552#7553#0" expanded="false" />
+            <element signature="e#7615#7616#0" expanded="false" />
+            <element signature="e#7653#7654#0" expanded="false" />
+            <element signature="e#7728#7729#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7849#7850#0" expanded="false" />
+            <element signature="e#7883#7884#0" expanded="false" />
+            <element signature="e#7927#7928#0" expanded="false" />
+            <element signature="e#7956#7957#0" expanded="false" />
+            <element signature="e#8240#8241#0" expanded="false" />
+            <element signature="e#8277#8278#0" expanded="false" />
+            <element signature="e#8480#8481#0" expanded="false" />
+            <element signature="e#8512#8513#0" expanded="false" />
+            <element signature="e#10378#10379#0" expanded="false" />
+            <element signature="e#10412#10413#0" expanded="false" />
+            <element signature="e#11021#11022#0" expanded="false" />
+            <element signature="e#11066#11067#0" expanded="false" />
+            <element signature="e#11137#11138#0" expanded="false" />
+            <element signature="e#11183#11184#0" expanded="false" />
+            <element signature="e#11255#11256#0" expanded="false" />
+            <element signature="e#11302#11303#0" expanded="false" />
+            <element signature="e#12152#12342#0" expanded="false" />
+            <element signature="e#12341#12342#0" expanded="false" />
+            <element signature="e#15204#15384#0" expanded="false" />
+            <element signature="e#15383#15384#0" expanded="false" />
+            <element signature="e#15845#16027#0" expanded="false" />
+            <element signature="e#16026#16027#0" expanded="false" />
+            <element signature="e#16304#16470#0" expanded="false" />
+            <element signature="e#16469#16470#0" expanded="false" />
+            <element signature="e#17440#17642#0" expanded="false" />
+            <element signature="e#17641#17642#0" expanded="false" />
+            <element signature="e#18511#18717#0" expanded="false" />
+            <element signature="e#18716#18717#0" expanded="false" />
+            <element signature="e#19353#19536#0" expanded="false" />
+            <element signature="e#19535#19536#0" expanded="false" />
+            <element signature="e#21753#21754#0" expanded="false" />
+            <element signature="e#21801#21802#0" expanded="false" />
+            <element signature="e#25152#25153#0" expanded="false" />
+            <element signature="e#25185#25186#0" expanded="false" />
+            <element signature="e#25249#25250#0" expanded="false" />
+            <element signature="e#25306#25307#0" expanded="false" />
+            <element signature="e#25385#25386#0" expanded="false" />
+            <element signature="e#25442#25443#0" expanded="false" />
+            <element signature="e#25499#25500#0" expanded="false" />
+            <element signature="e#25556#25557#0" expanded="false" />
+            <element signature="e#25628#25629#0" expanded="false" />
+            <element signature="e#25685#25686#0" expanded="false" />
+            <element signature="e#25716#25717#0" expanded="false" />
+            <element signature="e#25765#25766#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleNetworkWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="108" column="104" lean-forward="false" selection-start-line="108" selection-start-column="104" selection-end-line="108" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8174#8175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/NEEToreeAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1370#1406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/FMLNetworkEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4632#4633#0" expanded="false" />
+            <element signature="e#4674#4675#0" expanded="false" />
+            <element signature="e#5174#5175#0" expanded="false" />
+            <element signature="e#5216#5217#0" expanded="false" />
+            <element signature="e#5541#5542#0" expanded="false" />
+            <element signature="e#5597#5598#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/MessageToMessageEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5131#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/event/FMLStateEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/event/FMLInitializationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="16" column="47" lean-forward="false" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-155">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/Mod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3194">
+          <caret line="92" column="29" lean-forward="false" selection-start-line="92" selection-start-column="29" selection-end-line="92" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#12661#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/event/FMLEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/FMLCommonHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8802">
+          <caret line="549" column="35" lean-forward="false" selection-start-line="549" selection-start-column="35" selection-end-line="549" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#19218#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2951#2972#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#3318#3319#0" expanded="false" />
+            <element signature="e#3804#3805#0" expanded="false" />
+            <element signature="e#3835#3836#0" expanded="false" />
+            <element signature="e#4429#4430#0" expanded="false" />
+            <element signature="e#4470#4471#0" expanded="false" />
+            <element signature="e#4503#4504#0" expanded="false" />
+            <element signature="e#4549#4550#0" expanded="false" />
+            <element signature="e#6149#6157#0" expanded="false" />
+            <element signature="e#7621#7622#0" expanded="false" />
+            <element signature="e#7657#7658#0" expanded="false" />
+            <element signature="e#7699#7700#0" expanded="false" />
+            <element signature="e#7767#7768#0" expanded="false" />
+            <element signature="e#8020#8021#0" expanded="false" />
+            <element signature="e#8090#8091#0" expanded="false" />
+            <element signature="e#8517#8518#0" expanded="false" />
+            <element signature="e#8580#8581#0" expanded="false" />
+            <element signature="e#8757#8758#0" expanded="false" />
+            <element signature="e#8807#8808#0" expanded="false" />
+            <element signature="e#8846#8847#0" expanded="false" />
+            <element signature="e#8902#8903#0" expanded="false" />
+            <element signature="e#8965#8966#0" expanded="false" />
+            <element signature="e#9013#9014#0" expanded="false" />
+            <element signature="e#9075#9076#0" expanded="false" />
+            <element signature="e#9136#9137#0" expanded="false" />
+            <element signature="e#9476#9477#0" expanded="false" />
+            <element signature="e#9527#9528#0" expanded="false" />
+            <element signature="e#9569#9570#0" expanded="false" />
+            <element signature="e#9639#9640#0" expanded="false" />
+            <element signature="e#9681#9682#0" expanded="false" />
+            <element signature="e#9749#9750#0" expanded="false" />
+            <element signature="e#9803#9804#0" expanded="false" />
+            <element signature="e#9880#9881#0" expanded="false" />
+            <element signature="e#9932#9933#0" expanded="false" />
+            <element signature="e#10007#10008#0" expanded="false" />
+            <element signature="e#10067#10068#0" expanded="false" />
+            <element signature="e#10145#10146#0" expanded="false" />
+            <element signature="e#10206#10207#0" expanded="false" />
+            <element signature="e#10282#10283#0" expanded="false" />
+            <element signature="e#10352#10353#0" expanded="false" />
+            <element signature="e#10396#10397#0" expanded="false" />
+            <element signature="e#13348#13349#0" expanded="false" />
+            <element signature="e#13397#13398#0" expanded="false" />
+            <element signature="e#15484#15485#0" expanded="false" />
+            <element signature="e#15541#15542#0" expanded="false" />
+            <element signature="e#15753#15754#0" expanded="false" />
+            <element signature="e#15823#15824#0" expanded="false" />
+            <element signature="e#15863#15864#0" expanded="false" />
+            <element signature="e#15923#15924#0" expanded="false" />
+            <element signature="e#15961#15962#0" expanded="false" />
+            <element signature="e#16019#16020#0" expanded="false" />
+            <element signature="e#16277#16278#0" expanded="false" />
+            <element signature="e#16348#16349#0" expanded="false" />
+            <element signature="e#16412#16413#0" expanded="false" />
+            <element signature="e#16484#16485#0" expanded="false" />
+            <element signature="e#16551#16552#0" expanded="false" />
+            <element signature="e#16621#16622#0" expanded="false" />
+            <element signature="e#17198#17199#0" expanded="false" />
+            <element signature="e#17257#17258#0" expanded="false" />
+            <element signature="e#17300#17301#0" expanded="false" />
+            <element signature="e#17349#17350#0" expanded="false" />
+            <element signature="e#17621#17622#0" expanded="false" />
+            <element signature="e#17683#17684#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar!/com/google/common/collect/ForwardingMultimap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="43" column="46" lean-forward="false" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar!/com/mojang/authlib/properties/Property.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-270">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar!/com/mojang/authlib/properties/PropertyMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-139">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/network/login/client/C00PacketLoginStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/util/MessageDeserializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/server/dedicated/DedicatedServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="398" column="0" lean-forward="false" selection-start-line="398" selection-start-column="0" selection-end-line="398" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/server/network/NetHandlerLoginServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/server/MinecraftServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="783" column="0" lean-forward="false" selection-start-line="783" selection-start-column="0" selection-end-line="783" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/server/management/ServerConfigurationManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="442" column="0" lean-forward="false" selection-start-line="442" selection-start-column="0" selection-end-line="442" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/util/internal/RecyclableArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/network/NetworkManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="254" column="0" lean-forward="false" selection-start-line="254" selection-start-column="0" selection-end-line="254" selection-end-column="0" />
+          <folding>
+            <element signature="e#10703#10704#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/eventhandler/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/world/World.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-705">
+          <caret line="3924" column="16" lean-forward="false" selection-start-line="3924" selection-start-column="16" selection-end-line="3924" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/entity/player/EntityPlayerMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="110" column="24" lean-forward="false" selection-start-line="110" selection-start-column="24" selection-end-line="110" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mojang/authlib/1.5.16/ef1582b11fd0943d069cdcb72e99008ac209a283/authlib-1.5.16.jar!/com/mojang/authlib/GameProfile.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <element signature="e#959#960#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/gameevent/PlayerEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/net/minecraft/entity/player/EntityPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/ByteToMessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="264" column="0" lean-forward="false" selection-start-line="264" selection-start-column="0" selection-end-line="264" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleIndexedCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/FMLIndexedMessageToMessageCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/MessageToMessageEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1692">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5131#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/handler/codec/MessageToMessageCodec.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="116" column="0" lean-forward="false" selection-start-line="116" selection-start-column="0" selection-end-line="116" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#5703#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11520">
+          <caret line="716" column="0" lean-forward="false" selection-start-line="716" selection-start-column="0" selection-end-line="716" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28000#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3414#3415#0" expanded="false" />
+            <element signature="e#3465#3466#0" expanded="false" />
+            <element signature="e#3795#3796#0" expanded="false" />
+            <element signature="e#3825#3826#0" expanded="false" />
+            <element signature="e#3880#3881#0" expanded="false" />
+            <element signature="e#3911#3912#0" expanded="false" />
+            <element signature="e#3964#3965#0" expanded="false" />
+            <element signature="e#4020#4021#0" expanded="false" />
+            <element signature="e#4262#4263#0" expanded="false" />
+            <element signature="e#4292#4293#0" expanded="false" />
+            <element signature="e#4334#4335#0" expanded="false" />
+            <element signature="e#4361#4362#0" expanded="false" />
+            <element signature="e#4764#4765#0" expanded="false" />
+            <element signature="e#4834#4835#0" expanded="false" />
+            <element signature="e#5512#5513#0" expanded="false" />
+            <element signature="e#5584#5585#0" expanded="false" />
+            <element signature="e#6254#6255#0" expanded="false" />
+            <element signature="e#6320#6321#0" expanded="false" />
+            <element signature="e#6982#6983#0" expanded="false" />
+            <element signature="e#7050#7051#0" expanded="false" />
+            <element signature="e#7855#7856#0" expanded="false" />
+            <element signature="e#7936#7937#0" expanded="false" />
+            <element signature="e#9250#9251#0" expanded="false" />
+            <element signature="e#9326#9327#0" expanded="false" />
+            <element signature="e#10117#10118#0" expanded="false" />
+            <element signature="e#10184#10185#0" expanded="false" />
+            <element signature="e#11000#11001#0" expanded="false" />
+            <element signature="e#11080#11081#0" expanded="false" />
+            <element signature="e#11978#11979#0" expanded="false" />
+            <element signature="e#12064#12065#0" expanded="false" />
+            <element signature="e#12479#12480#0" expanded="false" />
+            <element signature="e#12534#12535#0" expanded="false" />
+            <element signature="e#12613#12614#0" expanded="false" />
+            <element signature="e#12672#12673#0" expanded="false" />
+            <element signature="e#12907#12908#0" expanded="false" />
+            <element signature="e#12954#12955#0" expanded="false" />
+            <element signature="e#13004#13005#0" expanded="false" />
+            <element signature="e#13046#13047#0" expanded="false" />
+            <element signature="e#13101#13102#0" expanded="false" />
+            <element signature="e#13148#13149#0" expanded="false" />
+            <element signature="e#13745#13746#0" expanded="false" />
+            <element signature="e#13823#13824#0" expanded="false" />
+            <element signature="e#14995#14996#0" expanded="false" />
+            <element signature="e#15091#15092#0" expanded="false" />
+            <element signature="e#17246#17247#0" expanded="false" />
+            <element signature="e#17311#17312#0" expanded="false" />
+            <element signature="e#18066#18067#0" expanded="false" />
+            <element signature="e#18136#18137#0" expanded="false" />
+            <element signature="e#18925#18926#0" expanded="false" />
+            <element signature="e#18990#18991#0" expanded="false" />
+            <element signature="e#19350#19351#0" expanded="false" />
+            <element signature="e#19397#19398#0" expanded="false" />
+            <element signature="e#20433#20434#0" expanded="false" />
+            <element signature="e#20499#20500#0" expanded="false" />
+            <element signature="e#23687#23688#0" expanded="false" />
+            <element signature="e#23758#23759#0" expanded="false" />
+            <element signature="e#25985#25986#0" expanded="false" />
+            <element signature="e#26029#26030#0" expanded="false" />
+            <element signature="e#26054#26055#0" expanded="false" />
+            <element signature="e#26084#26085#0" expanded="false" />
+            <element signature="e#26132#26133#0" expanded="false" />
+            <element signature="e#26162#26163#0" expanded="false" />
+            <element signature="e#26563#26564#0" expanded="false" />
+            <element signature="e#26623#26624#0" expanded="false" />
+            <element signature="e#27128#27129#0" expanded="false" />
+            <element signature="e#27172#27173#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessageHandler.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/FMLNetworkEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="22" column="31" lean-forward="false" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4632#4633#0" expanded="false" />
+            <element signature="e#4674#4675#0" expanded="false" />
+            <element signature="e#5174#5175#0" expanded="false" />
+            <element signature="e#5216#5217#0" expanded="false" />
+            <element signature="e#5541#5542#0" expanded="false" />
+            <element signature="e#5597#5598#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15282">
+          <caret line="939" column="0" lean-forward="false" selection-start-line="939" selection-start-column="0" selection-end-line="939" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32621#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2308#2346#0" expanded="false" />
+            <element signature="e#2449#2484#0" expanded="false" />
+            <element signature="e#3107#3108#0" expanded="false" />
+            <element signature="e#3137#3138#0" expanded="false" />
+            <element signature="e#3227#3228#0" expanded="false" />
+            <element signature="e#3279#3280#0" expanded="false" />
+            <element signature="e#4115#4116#0" expanded="false" />
+            <element signature="e#4166#4167#0" expanded="false" />
+            <element signature="e#7042#7043#0" expanded="false" />
+            <element signature="e#7089#7090#0" expanded="false" />
+            <element signature="e#7819#7820#0" expanded="false" />
+            <element signature="e#7865#7866#0" expanded="false" />
+            <element signature="e#9667#9668#0" expanded="false" />
+            <element signature="e#9729#9730#0" expanded="false" />
+            <element signature="e#10369#10625#0" expanded="false" />
+            <element signature="e#10624#10625#0" expanded="false" />
+            <element signature="e#13022#13303#0" expanded="false" />
+            <element signature="e#13302#13303#0" expanded="false" />
+            <element signature="e#15665#15819#0" expanded="false" />
+            <element signature="e#15818#15819#0" expanded="false" />
+            <element signature="e#17098#17255#0" expanded="false" />
+            <element signature="e#17254#17255#0" expanded="false" />
+            <element signature="e#21700#21708#0" expanded="false" />
+            <element signature="e#22060#22084#0" expanded="false" />
+            <element signature="e#22407#22408#0" expanded="false" />
+            <element signature="e#22459#22460#0" expanded="false" />
+            <element signature="e#23976#23977#0" expanded="false" />
+            <element signature="e#24012#24013#0" expanded="false" />
+            <element signature="e#25222#25223#0" expanded="false" />
+            <element signature="e#25268#25269#0" expanded="false" />
+            <element signature="e#25347#25348#0" expanded="false" />
+            <element signature="e#25397#25398#0" expanded="false" />
+            <element signature="e#25623#25624#0" expanded="false" />
+            <element signature="e#25663#25664#0" expanded="false" />
+            <element signature="e#25713#25714#0" expanded="false" />
+            <element signature="e#25748#25749#0" expanded="false" />
+            <element signature="e#25803#25804#0" expanded="false" />
+            <element signature="e#25843#25844#0" expanded="false" />
+            <element signature="e#26541#26542#0" expanded="false" />
+            <element signature="e#26588#26589#0" expanded="false" />
+            <element signature="e#26660#26661#0" expanded="false" />
+            <element signature="e#26702#26703#0" expanded="false" />
+            <element signature="e#26785#26786#0" expanded="false" />
+            <element signature="e#26832#26833#0" expanded="false" />
+            <element signature="e#26991#26992#0" expanded="false" />
+            <element signature="e#27029#27030#0" expanded="false" />
+            <element signature="e#27113#27114#0" expanded="false" />
+            <element signature="e#27160#27161#0" expanded="false" />
+            <element signature="e#27252#27253#0" expanded="false" />
+            <element signature="e#27307#27308#0" expanded="false" />
+            <element signature="e#27375#27376#0" expanded="false" />
+            <element signature="e#27421#27422#0" expanded="false" />
+            <element signature="e#30684#30685#0" expanded="false" />
+            <element signature="e#30728#30729#0" expanded="false" />
+            <element signature="e#32091#32092#0" expanded="false" />
+            <element signature="e#32133#32134#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-all/4.0.10.Final/9a214bc1e6350ead5234e4dd5eb3a2a802d1c658/netty-all-4.0.10.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3204">
+          <caret line="238" column="0" lean-forward="false" selection-start-line="238" selection-start-column="0" selection-end-line="238" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#25775#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3324#3325#0" expanded="false" />
+            <element signature="e#3353#3354#0" expanded="false" />
+            <element signature="e#3408#3409#0" expanded="false" />
+            <element signature="e#3439#3440#0" expanded="false" />
+            <element signature="e#3492#3493#0" expanded="false" />
+            <element signature="e#3538#3539#0" expanded="false" />
+            <element signature="e#4277#4278#0" expanded="false" />
+            <element signature="e#4312#4313#0" expanded="false" />
+            <element signature="e#4855#4856#0" expanded="false" />
+            <element signature="e#4891#4892#0" expanded="false" />
+            <element signature="e#4942#4943#0" expanded="false" />
+            <element signature="e#4975#4976#0" expanded="false" />
+            <element signature="e#5050#5051#0" expanded="false" />
+            <element signature="e#5100#5101#0" expanded="false" />
+            <element signature="e#5179#5180#0" expanded="false" />
+            <element signature="e#5233#5234#0" expanded="false" />
+            <element signature="e#5463#5464#0" expanded="false" />
+            <element signature="e#5507#5508#0" expanded="false" />
+            <element signature="e#5557#5558#0" expanded="false" />
+            <element signature="e#5596#5597#0" expanded="false" />
+            <element signature="e#5651#5652#0" expanded="false" />
+            <element signature="e#5695#5696#0" expanded="false" />
+            <element signature="e#6401#6402#0" expanded="false" />
+            <element signature="e#6452#6453#0" expanded="false" />
+            <element signature="e#6524#6525#0" expanded="false" />
+            <element signature="e#6570#6571#0" expanded="false" />
+            <element signature="e#6647#6648#0" expanded="false" />
+            <element signature="e#6698#6699#0" expanded="false" />
+            <element signature="e#6853#6854#0" expanded="false" />
+            <element signature="e#6895#6896#0" expanded="false" />
+            <element signature="e#6979#6980#0" expanded="false" />
+            <element signature="e#7030#7031#0" expanded="false" />
+            <element signature="e#7355#7356#0" expanded="false" />
+            <element signature="e#7409#7410#0" expanded="false" />
+            <element signature="e#7487#7488#0" expanded="false" />
+            <element signature="e#7552#7553#0" expanded="false" />
+            <element signature="e#7615#7616#0" expanded="false" />
+            <element signature="e#7653#7654#0" expanded="false" />
+            <element signature="e#7728#7729#0" expanded="false" />
+            <element signature="e#7793#7794#0" expanded="false" />
+            <element signature="e#7849#7850#0" expanded="false" />
+            <element signature="e#7883#7884#0" expanded="false" />
+            <element signature="e#7927#7928#0" expanded="false" />
+            <element signature="e#7956#7957#0" expanded="false" />
+            <element signature="e#8240#8241#0" expanded="false" />
+            <element signature="e#8277#8278#0" expanded="false" />
+            <element signature="e#8480#8481#0" expanded="false" />
+            <element signature="e#8512#8513#0" expanded="false" />
+            <element signature="e#10378#10379#0" expanded="false" />
+            <element signature="e#10412#10413#0" expanded="false" />
+            <element signature="e#11021#11022#0" expanded="false" />
+            <element signature="e#11066#11067#0" expanded="false" />
+            <element signature="e#11137#11138#0" expanded="false" />
+            <element signature="e#11183#11184#0" expanded="false" />
+            <element signature="e#11255#11256#0" expanded="false" />
+            <element signature="e#11302#11303#0" expanded="false" />
+            <element signature="e#12152#12342#0" expanded="false" />
+            <element signature="e#12341#12342#0" expanded="false" />
+            <element signature="e#15204#15384#0" expanded="false" />
+            <element signature="e#15383#15384#0" expanded="false" />
+            <element signature="e#15845#16027#0" expanded="false" />
+            <element signature="e#16026#16027#0" expanded="false" />
+            <element signature="e#16304#16470#0" expanded="false" />
+            <element signature="e#16469#16470#0" expanded="false" />
+            <element signature="e#17440#17642#0" expanded="false" />
+            <element signature="e#17641#17642#0" expanded="false" />
+            <element signature="e#18511#18717#0" expanded="false" />
+            <element signature="e#18716#18717#0" expanded="false" />
+            <element signature="e#19353#19536#0" expanded="false" />
+            <element signature="e#19535#19536#0" expanded="false" />
+            <element signature="e#21753#21754#0" expanded="false" />
+            <element signature="e#21801#21802#0" expanded="false" />
+            <element signature="e#25152#25153#0" expanded="false" />
+            <element signature="e#25185#25186#0" expanded="false" />
+            <element signature="e#25249#25250#0" expanded="false" />
+            <element signature="e#25306#25307#0" expanded="false" />
+            <element signature="e#25385#25386#0" expanded="false" />
+            <element signature="e#25442#25443#0" expanded="false" />
+            <element signature="e#25499#25500#0" expanded="false" />
+            <element signature="e#25556#25557#0" expanded="false" />
+            <element signature="e#25628#25629#0" expanded="false" />
+            <element signature="e#25685#25686#0" expanded="false" />
+            <element signature="e#25716#25717#0" expanded="false" />
+            <element signature="e#25765#25766#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleNetworkWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1674">
+          <caret line="108" column="104" lean-forward="false" selection-start-line="108" selection-start-column="104" selection-end-line="108" selection-end-column="104" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#8098#8099#0" expanded="false" />
+            <element signature="e#8174#8175#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1614-1.7.10/forgeSrc-1.7.10-10.13.4.1614-1.7.10-sources.jar!/cpw/mods/fml/common/network/simpleimpl/SimpleChannelHandlerWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="36" column="4" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/AuthMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/example/examplemod/NEEToreeAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-477">
+          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1370#1406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

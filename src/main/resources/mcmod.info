@@ -1,0 +1,16 @@
+[
+{
+  "modid": "neetoreeauth",
+  "name": "NEEToree auth",
+  "description": "NEEToree server authentication mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://neetoree.org",
+  "updateUrl": "",
+  "authorList": ["iamtakingiteasy"],
+  "credits": "iamtakingiteasy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
